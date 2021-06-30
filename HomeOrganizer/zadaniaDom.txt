@@ -1,0 +1,5 @@
+Skleic dachowki;10;10;2021;nie;dom
+Zamowic kostke;14;07;2021;nie;internet
+Sprzedac rower;13;06;2021;tak;dom
+Pobrac film;10;10;2021;tak;internet
+Zrobic zakupy;15;06;2021;tak;internet

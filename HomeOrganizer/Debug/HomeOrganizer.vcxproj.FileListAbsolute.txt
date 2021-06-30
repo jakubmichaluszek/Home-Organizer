@@ -1,0 +1,4 @@
+C:\Users\Kuba\Desktop\HomeOrganizer\Debug\HomeOrganizer.exe
+C:\Users\Kuba\Desktop\HomeOrganizer\Debug\HomeOrganizer.pdb
+C:\Users\Kuba\Desktop\GitHub\54d69b8e-gr11-repo\Projekt\HomeOrganizer\Debug\HomeOrganizer.exe
+C:\Users\Kuba\Desktop\GitHub\54d69b8e-gr11-repo\Projekt\HomeOrganizer\Debug\HomeOrganizer.pdb

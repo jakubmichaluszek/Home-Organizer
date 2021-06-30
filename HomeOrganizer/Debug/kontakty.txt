@@ -1,0 +1,9 @@
+Jan;Nowak;Praca;504324157
+Pawel;Adamowicz;Rodzina;503425123
+Andrzej;Stasiak;Znajomi;502123450
+Michal;Andrzejewski;Praca;505123321
+Kamil;Pawłowski;Rodzina;501230421
+Ludwik;Kowalski;Znajomi;503123421
+Henryk;Kowal;Praca;503120560
+Adam;Rower;Znajomi;603120530
+

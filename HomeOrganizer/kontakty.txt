@@ -1,0 +1,6 @@
+Pawel;Adamowicz;Rodzina;503425123
+Henryk;Kowal;Praca;503120560
+Adam;Stasiak;Nauczyciel;940349203
+dasdas;dasdasdasdas;rodzina;404120044
+Test;Test;Rodzina;500400300
+GitHub;GitHub;GitHub;500500500

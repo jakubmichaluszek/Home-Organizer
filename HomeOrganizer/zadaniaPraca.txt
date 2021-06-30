@@ -1,0 +1,3 @@
+Zrobic projekt z programowania;10;10;2021;tak;Gliwice;15
+Ustalic termin projektu;17;07;2021;nie;Wroclaw;20
+Wyjazd sluzbowy;10;10;2021;nie;Katowice;30
